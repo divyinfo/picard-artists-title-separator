@@ -1,2 +1,2 @@
-# picard-artists-title-separator
-Split form of "Artists-Title" in title tag into %ARTISTS% &amp; %TITLE%, and put them in corresponding tags. Implemented for right-click menu.
+# Artists-Title Separator
+If the title tag of the file matches "Artists-Title", split them into %ARTISTS% and %TITLE%, and put them in corresponding tags. Implemented for right-click menu.
